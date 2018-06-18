@@ -1,0 +1,19 @@
+.topbar{
+  width: 100%;
+  min-height: 70px;
+  background-color: red;
+}
+
+.msg{
+ padding: 5px;
+  color: white;
+  font-size: 22;
+  position: absolute;
+background-color: aqua;
+/*  width: 440px;*/
+}
+
+body{
+  overflow-x: hidden;
+  margin: 0;
+}
